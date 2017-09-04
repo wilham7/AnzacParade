@@ -1,4 +1,26 @@
 img {
 	position: absolute;
 	width: 100%;
+	top: 0px;
+	left: 0px;
+}
+
+#Base {
+	z-index: 10;
+}
+
+#Construction {
+	z-index: 20;
+}
+
+#Edges {
+	z-index: 30;
+}
+
+#Paths {
+	z-index: 40;
+}
+
+#Zone {
+	z-index: 50;
 }
