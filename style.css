@@ -24,3 +24,19 @@ img {
 #Zone {
 	z-index: 50;
 }
+
+#Bikes {
+	z-index: 60;
+}
+
+#Buses {
+	z-index: 70;
+}
+
+#Stalls {
+	z-index: 80;
+}
+
+#Trees {
+	z-index: 90;
+}
