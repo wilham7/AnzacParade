@@ -1,8 +1,12 @@
 .Map {
 	position: absolute;
 	width: 100%;
-	top: 0px;
 	left: 0px;
+	display: block;
+}
+
+#buttonEdges {
+	top: 30px;
 }
 
 #Base {
@@ -47,4 +51,11 @@
 
 #Amenities {
 	z-index: 110;
+}
+
+input {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 200;
 }
