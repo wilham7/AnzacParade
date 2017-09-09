@@ -2,6 +2,20 @@ var buttonDict = {
     "#buttonConstruction": "Construction"
 };
 
+/*
+$('#buttonConstruction').hide();
+$('#buttonEdges').hide();
+$('#buttonPaths').hide();
+$('#buttonZone').hide();
+$('#buttonBikes').hide();
+$('#buttonBuses').hide();
+$('#buttonStalls').hide();
+$('#buttonTrees').hide();
+$('#buttonStanding').hide();
+$('#buttonAmenities').hide();
+*/
+
+
 $(document).ready(function() {
 	/*
 	$('#buttonConstruction').click(function(){
