@@ -136,7 +136,7 @@ p {
 }
 
 .menu {
-	float:left;
+	float:right;
 	display:block;
 	text-align: center;
 	padding:14px 16px;
@@ -145,6 +145,7 @@ p {
 	background-color: #FFFFFF;
 	position: fixed;
 	color: #FFFFFF;
+	right: 0px;
 }
 
 .menu a {
