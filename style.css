@@ -1,8 +1,78 @@
-img {
+.Map {
 	position: absolute;
 	width: 100%;
-	top: 0px;
+	height: 100%;
 	left: 0px;
+	top: 0px;
+	display: none;
+}
+
+#Base {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+	display: Block;
+}
+
+input {
+    background: #BBBBBB;
+    /* border: None; */
+    margin: 10;
+    padding: 6;
+    color: #FFFFFF;
+	font-family: 'Titillium', arial, serif;
+	font-size: 18px;
+}
+
+input:hover {
+	background-color: #999999;
+}
+
+@font-face {
+    font-family: 'Titillium';
+    src: url(TitilliumWeb-Regular.ttf) format("truetype");
+}
+
+#buttonConstruction {
+	top: 0px;
+}
+
+#buttonEdges {
+	top: 50px;
+}
+
+#buttonPaths {
+	top: 100px;
+}
+
+#buttonZone {
+	top: 150px;
+}
+
+#buttonBikes {
+	top: 200px;
+}
+
+#buttonBuses {
+	top: 250px;
+}
+
+#buttonStalls {
+	top: 300px;
+}
+
+#buttonTrees {
+	top: 350px;
+}
+
+#buttonStanding {
+	top: 400px;
+}
+
+#buttonAmenities {
+	top: 450px;
 }
 
 #Base {
@@ -47,4 +117,11 @@ img {
 
 #Amenities {
 	z-index: 110;
+}
+
+input {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 200;
 }
