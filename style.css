@@ -75,6 +75,14 @@ input:hover {
 	top: 450px;
 }
 
+#buttonTopography {
+	top: 500px;
+}
+
+#buttonLightRail {
+	top: 550px;
+}
+
 #Base {
 	z-index: 10;
 }
@@ -117,6 +125,14 @@ input:hover {
 
 #Amenities {
 	z-index: 110;
+}
+
+#Topography {
+	z-index: 18;
+}
+
+#LightRail {
+	z-index: 120;
 }
 
 input {
