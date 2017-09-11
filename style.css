@@ -126,26 +126,6 @@ input {
 	z-index: 200;
 }
 
-#Sketch1 {
-	top: 10%;
-	left: 10%;
-}
-	
-#Sketch2 {
-	top: 10%;
-	right: 10%;
-}
-	
-#Sketch3 {
-	bottom: 10%;
-	left: 10%;
-}
-
-#Sketch4 {
-	bottom: 10%;
-	left: 10%;
-}
-
 h1 {
 	font-family: 'Titillium', arial, serif;
 	font-size: 150%;
