@@ -178,3 +178,19 @@ p {
 	background-color: #001f3f;
 	color: #DDDDDD;
 }
+
+#unswnetwork {
+	height: 100%;
+}
+
+.float-left-area  {
+	width: 70%;
+	float: left;
+}
+
+.float-right-area {
+	width: 30%;
+	float: left;
+	background-color: #000000;
+	color: #FFFFFF;
+}
