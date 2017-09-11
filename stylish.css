@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Titillium';
+    src: url(TitilliumWeb-Regular.ttf) format("truetype");
+}
+
+body {
+  font-family: font-family: 'Titillium', arial, serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#key {
+	top: 80px;
+}
+
+all {
+	margin: auto;
+}
