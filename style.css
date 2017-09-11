@@ -134,3 +134,30 @@ h1 {
 p {
 	text-align: center;
 }
+
+.menu {
+	float:left;
+	display:block;
+	text-align: center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+	background-color: #FFFFFF;
+	position: fixed;
+	color: #FFFFFF;
+}
+
+.menu a {
+	float:left;
+	display:block;
+	text-align: center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #333333;
+}
+
+.menu a:hover {
+	background-color: #001f3f;
+	color: #DDDDDD;
+}
