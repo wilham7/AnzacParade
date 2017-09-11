@@ -139,6 +139,30 @@ $(document).ready(function() {
 			$("#Amenities").show();
 		}
 	})
+	
+	
+	$('#buttonTopography').click(function(){
+		if($('#buttonTopography').attr('value')=='Topography On'){
+			$(this).val('Topography Off'); // change the value to Show
+			$("#Topography").hide();
+			$(this).show();
+		}else{
+			$(this).val('Topography On'); // change the value to Hide
+			$("#Topography").show();
+		}
+	})
+	
+	
+	$('#buttonLightRail').click(function(){
+		if($('#buttonLightRail').attr('value')=='LightRail On'){
+			$(this).val('LightRail Off'); // change the value to Show
+			$("#LightRail").hide();
+			$(this).show();
+		}else{
+			$(this).val('LightRail On'); // change the value to Hide
+			$("#LightRail").show();
+		}
+	})
 });
 
 /*
