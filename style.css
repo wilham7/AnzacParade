@@ -48,11 +48,11 @@ input:hover {
 }
 
 #buttonZone {
-	top: 150px;
+	top: 550px;
 }
 
 #buttonBikes {
-	top: 200px;
+	top: 150px;
 }
 
 #buttonBuses {
@@ -60,15 +60,15 @@ input:hover {
 }
 
 #buttonStalls {
-	top: 300px;
+	top: 500px;
 }
 
 #buttonTrees {
-	top: 350px;
+	top: 450px;
 }
 
 #buttonStanding {
-	top: 400px;
+	top: 200px;
 }
 
 #buttonAmenities {
@@ -76,11 +76,11 @@ input:hover {
 }
 
 #buttonTopography {
-	top: 500px;
+	top: 350px;
 }
 
 #buttonLightRail {
-	top: 550px;
+	top: 400px;
 }
 
 #Base {
