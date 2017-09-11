@@ -148,5 +148,9 @@ input {
 
 h1 {
 	font-family: 'Titillium', arial, serif;
-	font-size: 18px;
+	font-size: 100%;
 }	
+
+p {
+	text-align: center;
+}
