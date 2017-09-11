@@ -35,6 +35,10 @@ input:hover {
     src: url(TitilliumWeb-Regular.ttf) format("truetype");
 }
 
+centre {
+	text-align: center;
+}
+
 #buttonConstruction {
 	top: 0px;
 }
