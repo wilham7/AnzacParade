@@ -39,6 +39,8 @@ all {
 	position: fixed;
 	color: #FFFFFF;
 	right: 0px;
+	font-family: 'Titillium', arial, serif;
+	font-size: 18px;
 }
 
 .menu a {

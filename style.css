@@ -166,6 +166,9 @@ p {
 	position: fixed;
 	color: #FFFFFF;
 	right: 0px;
+	z-index: 1000;
+	font-family: 'Titillium', arial, serif;
+	font-size: 18px;
 }
 
 .menu a {
