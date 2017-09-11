@@ -52,11 +52,11 @@ centre {
 }
 
 #buttonZone {
-	top: 150px;
+	top: 550px;
 }
 
 #buttonBikes {
-	top: 200px;
+	top: 150px;
 }
 
 #buttonBuses {
@@ -64,27 +64,27 @@ centre {
 }
 
 #buttonStalls {
-	top: 300px;
-}
-
-#buttonTrees {
-	top: 350px;
-}
-
-#buttonStanding {
-	top: 400px;
-}
-
-#buttonAmenities {
-	top: 450px;
-}
-
-#buttonTopography {
 	top: 500px;
 }
 
+#buttonTrees {
+	top: 450px;
+}
+
+#buttonStanding {
+	top: 200px;
+}
+
+#buttonAmenities {
+	top: 400px;
+}
+
+#buttonTopography {
+	top: 300px;
+}
+
 #buttonLightRail {
-	top: 550px;
+	top: 350px;
 }
 
 #Base {
