@@ -36,7 +36,7 @@ all {
 	text-decoration: none;
 	font-size: 20px;
 	background-color: #FFFFFF;
-	position: relative;
+	position: fixed;
 	color: #FFFFFF;
 	right: 0px;
 	font-family: 'Titillium', arial, serif;
