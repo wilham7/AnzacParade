@@ -155,6 +155,12 @@ p {
 	text-align: center;
 }
 
+p.paragraph {
+	text-align: justify;
+	line-height: 1.4;
+	margin-left: 15%;
+}
+
 .menu {
 	float:right;
 	display:block;
@@ -190,9 +196,10 @@ p {
 	height: 100%;
 }
 
-.float-left-area  {
-	width: 70%;
+centreDiv  {
+	width: 50%;
 	float: left;
+	margin-left: 25%;
 }
 
 .float-right-area {
@@ -200,4 +207,18 @@ p {
 	float: left;
 	background-color: #000000;
 	color: #FFFFFF;
+}
+
+body {
+	font-family: 'Titillium', arial, serif;
+}
+
+body.analysis {
+	background-color: #888888;
+	color: #FFFFFF;
+}
+
+ul {
+	font-family: 'Titillium', arial, serif;
+	font-size: 12px;
 }
